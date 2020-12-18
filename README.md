@@ -1,11 +1,11 @@
 # grootan
  
-REQUIREMENTS
+Requirements:
 
 Node.js 
 MongoDB 
 
-HOW TO INSTALL
+How to install:
 
 Using Git (recommended)
 Clone the project from github. 
