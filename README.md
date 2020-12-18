@@ -20,7 +20,7 @@ cd to the project folder
 npm install
 npm update
 
-HOW TO RUN:
+How to run:
 
 Run mongod in terminal 
 Run nodemon app.js
